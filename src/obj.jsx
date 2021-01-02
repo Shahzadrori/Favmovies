@@ -4,7 +4,7 @@ import React from 'react';
 var Data = [
   {
     id :1,
-    imgsrc : 'https://i.ytimg.com/vi/QSylk40lAXY/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLA3yW_y8dKf5jYEWCR-wdr6Esv5uQ',
+    imgsrc : 'https://i.ytimg.com/an_webp/Qj_MDQHnR9U/mqdefault_6s_480x270.webp?du=3000&sqp=CJWCwP8F&rs=AOn4CLCb-Kgcrd5b9peeqjqUINEIXu3xBg',
     // width : '300px',
       title : 'Nusrat Fateh Ali Qwali',
       names :'Qwali1',
@@ -38,7 +38,7 @@ var Data = [
 },
 {
   id:5,
-  imgsrc : 'https://i.ytimg.com/an_webp/yBVEwRTeEZk/mqdefault_6s_480x270.webp?du=3000&sqp=CLmjtf8F&rs=AOn4CLDYnxmmgvbuAYrqnx6U6kc7G6oJwQ',
+  imgsrc : 'https://i.ytimg.com/an_webp/yBVEwRTeEZk/mqdefault_6s.webp?du=3000&sqp=CJapwP8F&rs=AOn4CLBD9SAKAINh7gtHKOCDiSPhFd-hXQ',
   title : 'Nusrat Fateh Ali Qwali',
   names : 'Qwali5',
   links : 'https://www.youtube.com/watch?v=yBVEwRTeEZk'
